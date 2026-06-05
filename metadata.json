@@ -1,0 +1,6 @@
+{
+  "name": "ITCS Connect",
+  "description": "Comprehensive ITCS computer institute management system for tracking student enrollments, attendance, fees, schedules, grades, parent progress tracking, messages, document uploads, and dynamic offline syncing with conflicts solver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
